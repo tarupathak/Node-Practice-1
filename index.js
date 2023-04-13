@@ -32,3 +32,8 @@ console.log(app.z())
 arr.filter((item) => {
     console.log(item)
 })
+
+let result = arr.filter((item) => {
+    return item>=4
+})
+console.warn(result);
