@@ -1,0 +1,23 @@
+{
+  "name": "tut",
+  "version": "1.0.0",
+  "description": "a node js practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "(https://github.com/anil-sidhu/node-js.git)"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/anil-sidhu/node-js.git)"
+  },
+  "author": "taru pathak",
+  "license": "ISC",
+  "keywords": [
+    "taru",
+    "pathak"
+  ],
+  "dependencies": {
+    "colors": "^1.4.0",
+    "simple-node-logger": "^21.8.12"
+  }
+}

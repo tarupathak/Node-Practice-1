@@ -37,3 +37,6 @@
 //     return item>=4
 // })
 // console.warn(result);
+
+const colors= require('colors');
+console.log('hello'.black);
